@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# React-Dad-Jokes-App
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**REACT lifeCycle methods and API Exercise: Randomly Fecth Dad Jokes and Rank them!**
+
+## Try the [Dad Jokes App](https://GuillaumeAuger85.github.io/React-Dad-Jokes-App)!
+
+**Screenshot:**
+
+![DadJokes](https://user-images.githubusercontent.com/49698792/220759402-77ed7600-0528-449d-9fd4-7285e7249955.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
